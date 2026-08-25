@@ -108,17 +108,17 @@ Pull additional repos dynamically/visually referencing my GitHub profile (github
 
 - All external project links (GitHub repo, live demos) should open in new tabs
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with a modern web stack.
 
-**Live app**: https://gurleen-portfolio.lovable.app
+**Live app**: https://gurleensingh1608-ai.lovable.app
 
-## Build with Lovable
+## Build and Deploy
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/3fa2185f-c295-4a35-9331-c7d67194869f).
+Continue developing this project locally.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- **Ship faster**: describe what you want to build and the tool handles the code.
+- **Stay in sync**: every change is tracked in version control.
+- **Full ownership**: this code is yours. Push to `main` on GitHub for deployment.
 
 ## Development
 
