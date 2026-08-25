@@ -130,3 +130,5 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+<!-- redeploy trigger -->
+<!-- redeploy triggered at 2026-08-25 -->
